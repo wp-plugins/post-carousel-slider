@@ -10,6 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Posts Carousel  Slider is a WordPress posts content slider plugin. Posts slider displays your blog's recent posts using beautiful slider.
 
+To use this slider use this short code [post_carousel_slider] in page and post where you want to show that .
+
 == Description ==
 
 Posts Carousel  Slider is a WordPress posts content slider plugin. Posts slider displays your blog's recent posts using beautiful slider.
