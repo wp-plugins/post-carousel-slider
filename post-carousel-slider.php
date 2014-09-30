@@ -5,7 +5,7 @@ Plugin Name: Post Carousel Slider
 Plugin URI:  
 Description: A simple plugin to show a horizontal poost carousel silder 
 Version: 1.0.0
-Author: Bhaskar Dhote  
+Author: Hemant Dhote  
 Author URI: 
 */
 
