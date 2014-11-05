@@ -3,7 +3,7 @@
 Plugin Name: Post Carousel Slider
 Plugin URI:  
 Description: A simple plugin to show a horizontal post carousel silder 
-Version: 1.0.0
+Version: 2.0.0
 Author: Hemant   
 Author URI: 
 */
